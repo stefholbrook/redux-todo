@@ -1,0 +1,44 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "name": "Render static UI",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "name": "Create Initial State",
+      "isComplete": true
+    },
+    {
+      "id": 3,
+      "name": "Render based on state",
+      "isComplete": false
+    },
+    {
+      "name": "new todo",
+      "isComplete": true,
+      "id": 4
+    },
+    {
+      "name": "another todo",
+      "isComplete": true,
+      "id": 5
+    },
+    {
+      "name": "this is a todo",
+      "isComplete": true,
+      "id": 6
+    },
+    {
+      "name": "a todo",
+      "isComplete": false,
+      "id": 7
+    },
+    {
+      "name": "or not",
+      "isComplete": false,
+      "id": 8
+    }
+  ]
+}
